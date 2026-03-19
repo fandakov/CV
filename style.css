@@ -209,6 +209,11 @@ footer {
   }
 }
 
+@media (max-width: 768px) {
+  body { background: linear-gradient(135deg, #325dc1, #1e293b); }
+  .panel { background: rgba(30, 41, 59, 0.7); }
+}
+
 img {
   max-width: 100%;
   height: auto;
